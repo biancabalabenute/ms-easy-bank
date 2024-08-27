@@ -16,3 +16,15 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@easybank.com"
+  onCallSupport:
+    - (55) 5555-1234
+    - (55) 5523-1345
